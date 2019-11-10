@@ -5,6 +5,8 @@ date: "2019-11-10"
 
 I just launched a new bootcamp!
 
+![Land](./land.jpg)
+
 ## Topics Covered
 
 1. Gatsby
