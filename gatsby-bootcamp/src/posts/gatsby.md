@@ -5,7 +5,7 @@ date: "2019-11-10"
 
 I just launched a new bootcamp!
 
-![Land](./land.jpg)
+![Land](https://picsum.photos/id/257/536/354)
 
 ## Topics Covered
 
